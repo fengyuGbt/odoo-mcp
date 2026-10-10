@@ -17,7 +17,7 @@ Read-only by design. No write tools in the MVP, safe to run against production d
 
 ## Requirements
 
-- Odoo 17+ (API keys) or Odoo 16 with a dedicated user password
+- Odoo 14+ (API keys; in-UI management from 17) or a dedicated user password
 - Python 3.12+
 - A client that supports MCP over stdio (Claude Desktop, Cursor, Windsurf, ...)
 
